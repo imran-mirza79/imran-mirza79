@@ -2,6 +2,9 @@
 
 [![Imran's's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran-mirza79&count_private=true&show_icons=true&theme=transparent)](https://github.com/imran-mirza79/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imran-mirza79&layout=compact)](https://github.com/imran-mirza79/imran-mirza79)
+
+
 <!--
 **imran-mirza79/imran-mirza79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
