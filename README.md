@@ -6,16 +6,16 @@
 
 
 
-**imran-mirza79/imran-mirza79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Making Backend services using rust for @mydatamyconsent
-- 🌱 I’m currently learning ... Go for backend development 
-- 👯 I’m looking to collaborate on ... Full Stack projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... ![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})()
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- **imran-mirza79/imran-mirza79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ -->
+<!-- Here are some ideas to get you started:
+ -->
+- 🔭 I’m currently working on Making Backend services using rust for @mydatamyconsent
+- 🌱 I’m currently learning  Go for backend development 
+- 👯 I’m looking to collaborate on  Full Stack projects
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me:  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/imranmirza79)
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 
