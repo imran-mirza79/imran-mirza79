@@ -12,7 +12,7 @@
  -->
 <!-- Here are some ideas to get you started:
  -->
-- 🔭 I’m currently working on Making Backend services using rust for @mydatamyconsent
+- 🔭 I’m currently working on developing Backend services using rust for @mydatamyconsent
 - 🌱 I’m currently learning  Go for backend development 
 - 👯 I’m looking to collaborate on  Full Stack projects
 <!-- - 🤔 I’m looking for help with ... -->
