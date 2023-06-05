@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on  Full Stack projects
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me:  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/imranmirza79)
+- 📫 reach out to me on:  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/imranmirza79)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
