@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <!-- [![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran-mirza79&count_private=true&show_icons=true&theme=transparent)](https://github.com/imran-mirza79/) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imran-mirza79&layout=compact&theme=transparent&hide_progress=true)](https://github.com/imran-mirza79/imran-mirza79) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imran-mirza79&layout=compact&theme=transparent&hide_progress=true)](https://github.com/imran-mirza79/imran-mirza79)
 
 <!--![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran-mirza79&show=reviews,prs_merged,prs_merged_percentage&bg_color=00000000)-->
 <!-- ## Languages, Frameworks and Libraries -->
