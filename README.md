@@ -4,9 +4,16 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imran-mirza79&layout=compact&theme=transparent&hide_progress=true)](https://github.com/imran-mirza79/imran-mirza79) -->
 
+<!--![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran-mirza79&show=reviews,prs_merged,prs_merged_percentage&bg_color=00000000)-->
 <!-- ## Languages, Frameworks and Libraries -->
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=imran-mirza79&bg_color=00000000" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imran-mirza79&layout=compact&langs_count=8&card_width=320&bg_color=00000000" />
+</a>
+<hr/>
 
 <!-- **imran-mirza79/imran-mirza79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
