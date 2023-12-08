@@ -7,10 +7,10 @@
 <!--![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran-mirza79&show=reviews,prs_merged,prs_merged_percentage&bg_color=00000000)-->
 <!-- ## Languages, Frameworks and Libraries -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/imranmirza79/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=imran-mirza79&bg_color=00000000" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/imranmirza79/go-microservices">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imran-mirza79&layout=compact&langs_count=8&card_width=320&bg_color=00000000" />
 </a>
 <hr/>
