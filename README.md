@@ -7,10 +7,10 @@
 <!-- ## Languages, Frameworks and Libraries -->
 
 <a href="https://github.com/imranmirza79/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=imran-mirza79" />
+  <img height=200 align="center" src="https://github-readme-stats-j05el383g.vercel.app/api/?username=imran-mirza79&bg_color=00000000&include_all_commits=true&count_private=true&hide=contribs" />
 </a>
 <a href="https://github.com/imranmirza79/go-microservices">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imran-mirza79&layout=compact&langs_count=8&card_width=320&bg_color=00000000&include_all_commits=true&count_private=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imran-mirza79&layout=compact&langs_count=15&card_width=320&bg_color=00000000&include_all_commits=true&count_private=true" />
 </a>
 <hr/>
 
