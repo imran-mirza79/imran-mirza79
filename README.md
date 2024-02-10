@@ -1,23 +1,18 @@
-### Hi there 👋
-
-<!-- [![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran-mirza79&count_private=true&show_icons=true&theme=transparent)](https://github.com/imran-mirza79/) -->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imran-mirza79&layout=compact&theme=transparent&hide_progress=true)](https://github.com/imran-mirza79/imran-mirza79)-->
-
-<!--![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran-mirza79&show=reviews,prs_merged,prs_merged_percentage&bg_color=00000000&include_all_commits=true)-->
-<!-- ## Languages, Frameworks and Libraries -->
-
-<a href="https://github.com/imranmirza79/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-j05el383g.vercel.app/api/?username=imran-mirza79&bg_color=00000000&include_all_commits=true&count_private=true&hide=contribs" />
-</a>
-<a href="https://github.com/imranmirza79/go-microservices">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imran-mirza79&layout=compact&langs_count=15&card_width=520&bg_color=00000000&include_all_commits=true&count_private=true" />
-</a>
+<div class='container'>
+  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=imran-mirza79&theme=blue-green&hide_border=false"/>
+  &nbsp;
+  &nbsp;
+  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran-mirza79&theme=blue-green&langs_count=8&layout=compact" />
+</div>
+&nbsp;&nbsp;
+<!-- <div class="container"> -->
+  <img style="margin: auto; display:flex;height: auto; width: 55%;" class="img" src="https://github-readme-stats-j05el383g.vercel.app/api?username=imran-mirza79&theme=blue-green&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&hide=contribs" />
+<!-- </div> -->
+&nbsp;
 <hr/>
 
-<!-- **imran-mirza79/imran-mirza79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- -->
-<!-- Here are some ideas to get you started:
- -->
+### Hi there 👋
+
 - 🔭 I’m currently working on developing applications for BPs @Invesco
 - 🌱 I’m currently learning  Go for backend development 
 - 👯 I’m looking to collaborate on  Full Stack projects
