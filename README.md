@@ -9,7 +9,6 @@
 
 **About Me 👨‍💻**
 
- - 🕹️ I'm a passionate Software Engineer, learning something new everyday.
  - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/imranmirza79)
  
 ----------------
