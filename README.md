@@ -38,4 +38,4 @@
 <!--
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-j05el383g.vercel.app/api?username=imran-mirza79&theme=blue-green&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&hide=contribs" />
 -->
- <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=imran-mirza79&theme=transparent&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs" />
+ <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=imran-mirza79&theme=transparent&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
